@@ -51,7 +51,7 @@ h3#header {
 }
 
 .jumbotron {
-  border-radiu: 5px;
+  border-radius: 5px;
   background-color: #e9ecef;
-  
+  padding: 10px;
 }
